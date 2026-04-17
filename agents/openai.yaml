@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Security Audit"
+  short_description: "Evidence-driven bilingual code security auditing"
+  default_prompt: "Audit this codebase for exploitable security issues. Build source-to-transfer-to-sink evidence chains, deduplicate root causes, prioritize by exploitability and blast radius, and output P0/P1/P2 remediation with retest checklists."
